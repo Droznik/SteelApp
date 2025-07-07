@@ -1,0 +1,447 @@
+<resources>
+    <string name="app_name">MDR</string>
+
+    <string name="back">zurück</string>
+    <string name="next">Weiter</string>
+    <string name="please_choose">bitte wählen</string>
+    <string name="or">oder</string>
+    <string name="understood">Alles klar!</string>
+    <string name="for_registration">Zur Anmeldung</string>
+    <string name="and_now">und jetzt</string>
+    <string name="value_months">%1$d Monate</string>
+    <string name="months">Monate</string>
+    <string name="first_name">Vorname</string>
+    <string name="last_name">Nachname</string>
+    <string name="gender">Anrede</string>
+    <string name="save">Speichern</string>
+    <string name="cancel">Stornieren</string>
+    <string name="accessory">Zubehör</string>
+    <string name="min_price">min. %1$.2f</string>
+    <string name="price_euro">%1$.2f €</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="purchase_price">Kaufpreis</string>
+    <string name="uvp">UVP</string>
+    <string name="per_bike">pro Rad</string>
+    <string name="delete_all">Alle löschen</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="brand">Marke</string>
+    <string name="model">Modell</string>
+    <string name="total_price">Kaufpreis gesamt</string>
+    <string name="total_prices">Gesamtpreis</string>
+    <string name="leasing_rate">Leasingsrate</string>
+    <string name="dealer">Fachhändler</string>
+    <string name="frame_type">Rahmenart</string>
+    <string name="category">Kategorie</string>
+    <string name="frame_size">Rahmengrösse</string>
+    <string name="color">Farbe</string>
+    <string name="designation">Bezeichnung</string>
+    <string name="amount">Menge</string>
+    <string name="net_selling_price">Verkaufspreis Netto</string>
+    <string name="gross_sales_price">Verkaufspreis Brutto</string>
+    <string name="total_price_net">Gesamtpreis Netto</string>
+    <string name="total_price_gross">Gesamtpreis Brutto</string>
+    <string name="gross_list_price_uvp">Bruttolistenpreis (UVP)</string>
+    <string name="calculation">Kalkulation</string>
+    <string name="insurance_rate">Versicherungsrate</string>
+    <string name="service_rate">Servicerate</string>
+    <string name="less_employer_contribution">Abzüglich Arbeitgeberzuschuss</string>
+    <string name="withheld_from_gross_salary">Vom Bruttoentgelt einbehalten</string>
+    <string name="pecuniary_advantage">Geldwerter Vorteil</string>
+    <string name="bike">Fahrrad</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="service_package">Servicepaket</string>
+    <string name="leasing_end">Leasingende</string>
+    <string name="mdrStatus">MDR-Status</string>
+    <string name="type">Typ</string>
+    <string name="support_request">Support Anfrage</string>
+    <string name="leasing_company">Leasinggesellschaft</string>
+    <string name="insurance_tariff">Versicherungstarif</string>
+    <string name="delivery_date">Übergabedatum</string>
+    <string name="duration">Laufzeit</string>
+    <string name="documents">Dokumente</string>
+    <string name="faq">FAQ</string>
+    <string name="file_uploaded_successfully">Die Datei wurde erfolgreich hochgeladen.</string>
+    <string name="format_article">%1$s Artikel</string>
+    <string name="all_bikes">Alle Bikes</string>
+
+    <string name="my_profile">Meine Profildaten</string>
+
+    <!-- splash -->
+
+    <string name="splash_description">Jetzt bequem in der App dein Fahrrad bestellen</string>
+    <string name="splash_register_now">Jetzt anmelden</string>
+
+    <!-- auth -->
+
+    <string name="password">Passwort</string>
+    <string name="email">Benutzername/E-Mail</string>
+
+    <!-- side menu -->
+
+    <string name="menu_order_bike">Fahrrad bestellen</string>
+
+    <string name="menu_my_offers">Meine Angebote</string>
+    <string name="menu_my_orders">Meine Bestellungen</string>
+    <string name="menu_my_bikes">Meine Diensträder</string>
+    <string name="menu_my_service_cases">Meine Servicefälle</string>
+    <string name="menu_my_favourites">Meine Merkliste</string>
+    <string name="menu_dealer_search">Fachhändlersuche</string>
+    <string name="menu_leasing_calculator">Leasingsrechner</string>
+    <string name="menu_faq">Fragen &amp; Antworten</string>
+    <string name="menu_support">Support</string>
+
+    <!-- purchase -->
+
+    <string name="purchase_top_title">Fahrrad bestellen</string>
+
+    <string name="purchase_variant_title">Fahrrad bestellen,\njetzt los legen!</string>
+    <string name="purchase_variant_offer_desc1">Aktuelle Angebot</string>
+    <string name="purchase_variant_offer_desc2">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</string>
+    <string name="purchase_variant_new_desc1">Neue Bestellung</string>
+    <string name="purchase_variant_new_desc2">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</string>
+    <string name="purchase_variant_offer_btn">Aktuelle Angebote</string>
+    <string name="purchase_variant_new_btn">Neue Bestellung</string>
+
+    <string name="purchase_order_create_btn">Jetzt bestellen</string>
+    <string name="purchase_order_cb_user">Dienstradnutzer</string>
+    <string name="purchase_order_contract_term">Vertragslaufzeit</string>
+    <string name="purchase_lager_status_true">Auf Lager</string>
+    <string name="purchase_lager_status_false">Nicht auf Lager</string>
+    <string name="purchase_choose_creditors">Wähle Fachhändler</string>
+    <string name="purchase_bike_type">Fahrrad-Typ</string>
+    <string name="purchase_frame_type">Rahmenart</string>
+    <string name="purchase_bike_brand">Fahrrad Marke</string>
+    <string name="purchase_bike_model">Fahrrad Modell</string>
+    <string name="purchase_bike_color">Fahrrad Farbe</string>
+    <string name="purchase_bike_category">Fahrrad Kategorie</string>
+    <string name="purchase_frame_height">Rahmenhöhe in cm</string>
+    <string name="purchase_frame_number">Rahmennummer</string>
+    <string name="purchase_lager_status">Lagerstatus</string>
+    <string name="purchase_date">Voraussichtliches Lieferdatum</string>
+    <string name="purchase_contract_term">Vertragslaufzeit</string>
+    <string name="purchase_bike_uvp">UVP €</string>
+    <string name="purchase_bike_price">Verkaufspreis Fahrrad €</string>
+    <string name="purchase_mdr_accessory">Von MDR gestelltes Zubehör</string>
+    <string name="purchase_not_allowed_accessories">Nicht erlaubtes Zubehör</string>
+    <string name="purchase_required_accessories">Pflichtzubehör</string>
+    <string name="purchase_item_product_name">Produktbezeichnung</string>
+    <string name="purchase_item_product_brutto">VK-Preis Brutto €</string>
+    <string name="purchase_leasing_accessories">Leasingfähiges Zubehör: </string>
+    <string name="purchase_employee_budget">Mitarbeiterbuget €</string>
+    <string name="purchase_service_packages_title">Servicepaket buchen</string>
+    <string name="purchase_total_price">Verkaufspreis\nFahrrad &amp; Zubehör</string>
+    <string name="purchase_insurance_rate">Versicherungsrate</string>
+    <string name="purchase_leasing_rate">Leasingrate</string>
+
+    <string name="purchase_result_title">Vielen Dank für\nIhre Bestellung.</string>
+    <string name="purchase_result_description_part1">Ihre Bestellung wird sofort in MDR App Ordner</string>
+    <string name="purchase_result_description_part2">\“Meine Bestellungen\”</string>
+    <string name="purchase_result_description_part3">zu sehen.\n\nBald bekommen Sie von Ihrem ausgewählten Händler die Bestellbestätigung. Wenn gewünschte Modell nicht erhältlich ist, ihr Auftrag wird automatisch storniert und aus \“Meine Bestellungen\” gelöscht. Mehr Details darüber bekommen Sie in Ihrem Customer Hub.</string>
+    <string name="purchase_result_my_orders_link">Meine Bestellungen</string>
+
+    <!-- my offers -->
+
+    <string name="offer_item_valid_until">Angebot gültig bis</string>
+
+    <string name="delete_offer_desc">Angebot wird gelöscht</string>
+
+    <string name="order_company_bike">Dienstrad bestellen</string>
+
+    <!-- faq -->
+
+    <string name="faq_general_questions_title">Allgemeine Fragen zum Dienstrad-Leasing</string>
+    <string name="faq_about_title">Was ist mein-dienstrad.de?</string>
+    <string name="faq_about_text">mein-dienstrad.de unterstützt Arbeitgeber, Angestellte und Selbstständige bei der Durchführung des Dienstrad-Leasings, berät bei der Auswahl von Firmenrädern (autonom bei der Marken- und Händlerwahl) und bietet einen umfassenden Versicherungsschutz. Leasing, Versicherung und Servicepakete – alles aus einer Hand.</string>
+    <string name="faq_benefit_text">
+    Alle Mitarbeiter, die in einem angestellten Arbeitsverhältnis stehen und ein regelmäßiges Gehalt beziehen, können vom Dienstrad-Leasing profitieren. Es ist eine Win-Win-Situation für alle Beteiligten, sowohl Arbeitgeber als auch Arbeitnehmer.\n\n
+    Unternehmen bieten eines der beliebtesten Benefits und fördern somit die Motivation der Mitarbeiter. Zudem leisten Unternehmen im Rahmen ihres Nachhaltigkeitskonzeptes einen aktiven Beitrag zum Klimaschutz und zur Gesundheit (Betriebliches Gesundheitsmanagement). Für viele Arbeitnehmer ist das Dienstrad-Modell Voraussetzung, um ein Arbeitsverhältnis einzugehen.\n\n
+    Arbeitnehmer profitieren von dem einzigartigen und vielseitigen Mehrwert eines Dienstrades: Stärkung der Fitness und Gesundheit, Ersparnis bei der Anschaffung, Rundum-Schutz durch Versicherungen und Service. Die Dienstradnutzung ist auch oder ggf. nur in der Freizeit ausdrücklich erwünscht. Die Ersparnis gegenüber einem Direktkauf beträgt je nach Steuerklasse bis zu 40%.\n\n
+    Für Selbstständige/Freiberufler bietet sich eine komplett neue Mobilität. Hier lassen sich nebenbei sogar noch Steuern sparen.\n\n
+    Fachhändler profitieren von zusätzlichen Kunden sowie Kundenbindung. Da Diensträder üblicherweise einen Wartungsvertrag haben, entsteht auch hier ein attraktives Zusatzgeschäft.
+    </string>
+    <string name="faq_benefit_title">Wer kann von Dienstrad Leasing profitieren?</string>
+    <string name="faq_employer_title">Kann jeder Arbeitgeber ein Dienstrad anbieten?</string>
+    <string name="faq_employer_text">Grundsätzlich ja. Arbeitgeber, die tariflich gebunden sind, finden hier weitere Informationen.</string>
+    <string name="faq_advantages_title">Welche Vorteile bietet Dienstrad-Leasing?</string>
+    <string name="faq_advantages_text">Das Dienstrad-Leasing ermöglicht Ihnen, Ihr Wunsch-Rad zu günstigen Konditionen zu nutzen – dabei können Sie sich die Marke und das Modell frei aussuchen. Durch die Entgeltumwandlung zahlen Sie 36 geringe Nutzungsraten, die vom monatlichen Bruttolohn einbehalten werden. Die relative Ersparnis gegenüber einem Direktkauf beträgt bis zu 40 % und entsteht über die Gehaltsumwandlung. Durch das reduzierte Brutto-Gehalt reduzieren sich die Steuern und Sozialabgaben, so dass der tatsächlich zu zahlende Betrag erheblich geringer ist als die Leasingrate.  Der Mehrwert, den ein Dienstfahrrad bietet, ist aber noch viel größer als der Kostenvorteil. Sie stärken Ihre Gesundheit und Fitness, schonen die Umwelt und das Klima. Nutzen dürfen Sie Ihr Fahrrad täglich – ausdrücklich auch oder sogar nur privat und an den Wochenenden. Durch unsere Versicherungs-Pakete sind Sie dabei bestens abgesichert.</string>
+    <string name="faq_no_answer_found">Keine Antwort gefunden?</string>
+    <string name="faq_continue_to_faq">Weiter zum FAQ</string>
+    <string name="faq_contact_us">Persönliche Beratung</string>
+
+    <!-- register -->
+    <string name="register_partner_code_title">Hallo! Registrieren Sie sich, um loszulegen</string>
+    <string name="partner_code">Partnercode</string>
+    <string name="register_partner_code_description">Sie haben schon ein Konto?</string>
+    <string name="company">Unternehmen</string>
+    <string name="e_mail_address">E-Mail Adresse</string>
+    <string name="username">Benutzername</string>
+    <string name="passwort_confirm">Passwort bestätigen</string>
+    <string name="registration_for_company_bike_users">Registrierung für Dienstradnutzer</string>
+    <string name="register_decription">Hier finden Sie alle Informationen zu Ihrem Arbeitgeber. Diese werden bei Bestellung Ihres Dienstrads benötigt.</string>
+    <string name="register_checkbox_text">Hiermit akzeptiere ich die Allgemeinen Geschäftsbedingungen und die Datenschutzhinweise</string>
+    <string name="have_account">Sie haben bereits ein Konto?</string>
+    <string name="sign_in">" Anmeldung"</string>
+    <string name="thanks_for_registering">Vielen Dank für Ihre Registrierung!</string>
+    <string name="thanks_for_registering_subtext">Vielen Dank für Ihre Registrierung. Bitte verifizieren Sie Ihren Account, indem Sie auf den Link in der Ihnen soeben zugesandten E-Mail klicken. Sollten Sie keine E-Mail erhalten haben, überprüfen Sie bitte auch Ihren Spamordner. \n</string>
+    <string name="thanks_for_registering_subtext_two">Sollte bei Ihnen keine E-Mail eingehen, wenden Sie sich bitte an customercare@baronmobil.com</string>
+    <string name="resend_email">Verifizierungs E-mail erneut senden</string>
+    <string name="check_email_verification">Überprüfung der Verifizierung</string>
+    <string name="didnt_get_email">Hast du keine E-Mail bekommen?</string>
+    <string name="email_confirmed">Ihre E-Mail-Adresse wurde bestätigt.</string>
+    <string name="ss">Weiter</string>
+    <string name="final_step_description">Hier finden Sie alle Informationen zu Ihrem Arbeitgeber. Diese werden bei Bestellung Ihres Dienstrads benötigt.</string>
+    <string name="final_step_title">Erste Schritte. Mein Arbeitgeber</string>
+    <string name="personal_nr">Personal-Nr.</string>
+    <string name="telephone">Telefon</string>
+    <string name="city">Stadt</string>
+    <string name="postcode">PLZ</string>
+    <string name="address"><![CDATA[Strasse & Hausnummer]]></string>
+    <string name="final_step_my_info">Meine persönliche Angaben</string>
+    <string name="final_step_company">Unternehmen</string>
+    <string name="firm_address">Firmenadresse</string>
+
+    <!-- profile -->
+    <string name="profile_data">Daten</string>
+    <string name="profile_your_company_bike">Ihr Dienstradmodell</string>
+    <string name="profile_employer">Arbeitgeber</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_email">E-Mail</string>
+    <string name="profile_number">Telefonnummer</string>
+    <string name="profile_address">Adresse</string>
+    <string name="profile_personal_nr">Personal Nr.</string>
+    <string name="profile_land">Land</string>
+    <string name="profile_request_changes">Änderung anfragen</string>
+    <string name="profile_two_factor">Zwei-Faktor Authentifizierung</string>
+    <string name="logout">Ausloggen</string>
+    <string name="profile_allowed_types">Erlaubte Fahrradtypen</string>
+    <string name="profile_min_max_price">Min. und Max. Preis</string>
+    <string name="profile_basis">Grundlage der Preisbegrenzung</string>
+    <string name="profile_price_limit">Preisbegrenzung</string>
+    <string name="profile_quantity">Anzahl erlaubter Räder</string>
+    <string name="profile_employer_subsidies">Arbeitgeberzuschüsse</string>
+    <string name="profile_leasable">Leasingfähiges Zubehör</string>
+    <string name="profile_my_profile">Meine Profildaten</string>
+
+    <string-array name="gender_array">
+        <item>Herr</item>
+        <item>Frau</item>
+        <item>Divers</item>
+    </string-array>
+
+    <!-- login -->
+    <string name="login_title">Willkommen! \nSchön, dass Sie hier sind!</string>
+    <string name="login_description">Melden Sie sich hier mit Ihrem persönlichen Kundenkonto an.</string>
+    <string name="login_forgot_password">Passwort vergessen?</string>
+    <string name="login_btn_text">Anmelden</string>
+    <string name="login_register_btn_text">Registrieren</string>
+    <string name="login_error">Ungültiger Benutzername oder Passwort</string>
+
+    <!-- forgot password -->
+    <string name="forgot_password_title">Neues Passwort \nerstellen</string>
+    <string name="forgot_password_description">Ihr neues Passwort muss sich von den zuvor verwendeten unterscheiden.</string>
+    <string name="forgot_password_reset">Passwort zurücksetzen</string>
+    <string name="forgot_password_to_register">Zur anmelden</string>
+    <string name="forgot_password_do_you_have_an_account">Oder Sie haben noch schon Konto?</string>
+
+    <!-- successful password reset -->
+    <string name="successful_password_reset_title">Danke für die Anfrage.</string>
+    <string name="successful_password_reset_description">Sie erhalten in Kürze eine E-Mail zum Zurücksetzen Ihres Passworts.</string>
+    <string name="successful_password_reset_to_the_login">Zum Login</string>
+
+    <!-- email unverified dialog -->
+    <string name="email_unverified_dialog_title">E-Mail bestätigen</string>
+    <string name="email_unverified_dialog_subtitle">Ooops. Ihre E-mail ist noch nicht bestätigt. bitte prüfen Sie ihre Mail App.</string>
+    <string name="email_unverified_dialog_did_not_get_anything">Nichts bekommmen?\n</string>
+    <string name="email_unverified_dialog_resend_btn">E-Mail erneut zusenden</string>
+
+    <!-- how to -->
+    <string name="how_to_1_title">Shop Möglichkeit direkt in App mit vereinfachten Kaufabwicklung.</string>
+    <string name="how_to_2_title">Kein Papierkram beim Dienstrad Leasing dank Fahrer-Pass.</string>
+
+    <!-- onboarding bike categories -->
+    <string name="personal_recommendations_title">Persönliche Empfehlungen</string>
+    <string name="personal_recommendations_description">Ihre Anwendungsbereiche - wir möchten Ihnen eine individuell auf Sie zu-geschnittene Auswahl an (E-)Bike-Modellen zeigen. Welche Einsatzbereiche kommen für Sie in Frage? (Mehrfachauswahl möglich)</string>
+    <string name="personal_recommendations_remember_selection">Auswahl merken</string>
+    <string-array name="bike_categories">
+        <item>city|City / Urban</item>
+        <item>site|Gelände</item>
+        <item>transport|Transport</item>
+        <item>road|Rennrad / Gravel</item>
+        <item>trekking|Trekking</item>
+    </string-array>
+
+    <!-- support -->
+    <string name="support_toolbar_title">Support</string>
+    <string name="support_title">Wie können wir \nIhnen helfen?</string>
+    <string name="support_contact_we_are_available">Wir sind für Sie erreichbar </string>
+    <string name="support_contact_time">\nvon Montag bis Freitag 10 bis 17 Uhr</string>
+    <string name="support_contact_under">\nunter </string>
+    <string name="support_contact_number"> 0441 – 55 977 955 </string>
+    <string name="support_contact_by_email">oder per Mail:</string>
+    <string name="support_email">\ncustomercare@baronmobil.com</string>
+    <string name="support_bike_advice">Bike-Beratung</string>
+    <string name="support_repair">Reparatur/ Wartung</string>
+    <string name="support_report_theft">Diebstahl melden</string>
+    <string name="support_faq">FAQ</string>
+    <string name="support_email_copied">Email copied</string>
+
+    <!-- my mdr bikes -->
+    <string name="my_mdr_bikes_toolbar_orders_title">Meine Bestellungen</string>
+    <string name="my_mdr_bikes_toolbar_bikes_title">Meine Diensträder</string>
+
+    <string name="my_mdr_bikes_order_dealer">Händler</string>
+    <string name="my_mdr_bikes_order_tax_rate">Steuerliche Daten</string>
+    <string name="my_mdr_bikes_order_info">Informationen zu Ihrem Auftrag</string>
+    <string name="my_mdr_bikes_doc_error_title">Hinweis\nIhres Arbeitgeber</string>
+    <string name="my_mdr_bikes_status_tracking">Statusverfolgung</string>
+    <string name="my_mdr_bikes_statuses_desc">Hier halten wir Sie auf dem laufenden zu Ihrer laufenden Dienstradbestellung. Mehr Informationen erhalten Sie im</string>
+    <string name="upload_transfer_agreement">Überlassungsvertrag hochladen</string>
+
+    <!-- bike pass -->
+    <string name="bike_pass_toolbar_title">Mein-Dienstrad.Pass</string>
+    <string name="bike_pass_screen_title">mein-dienstrad.pass</string>
+    <string name="bike_pass_code">mein-dienstrad.code</string>
+    <string name="bike_pass_save_image">Als Bild speichern</string>
+    <string name="bike_pass_share_qr_code">QR-Code teilen</string>
+    <string name="bike_pass_my_services">Leistungen</string>
+    <string name="bike_pass_leasing">Leasing</string>
+    <string name="bike_pass_my_data">Meine Daten</string>
+
+    <!-- bike pass: Services-->
+    <string name="bike_pass_insurance_conditions_for_download">Versicherungsbedingungen zum downloaden</string>
+    <string name="bike_pass_insurance_conditions_for_download_name">AV-Protect</string>
+    <string name="bike_pass_service_package_including_services">Servicepaket inkl. enthaltende Leistungen</string>
+    <string name="bike_pass_documents">Dokumente</string>
+    <string name="bike_pass_permitted_leasing_periods">Erlaubte Leasinglaufzeiten</string>
+    <string name="bike_pass_mandatory_accessories">Pflichtzubehör</string>
+    <string name="bike_pass_prohibited_accessories">Nicht erlaubtes Zubehör</string>
+    <string name="bike_pass_order_via_online_retailer">Bestellung via Online-Händler</string>
+    <string name="bike_pass_mobility_guarantee">Mobilitätsgarantie</string>
+
+    <!-- bike pass: Leasing-->
+    <string name="bike_pass_permitted_bicycle_types">Erlaubte Fahrradtypen</string>
+    <string name="bike_pass_min_max_price">Min. und Max. Preis</string>
+    <string name="bike_pass_min_max_price_template">%1$d - %2$d €</string>
+    <string name="bike_pass_basis_of_price_limitation">Grundlage der Preisbegrenzung</string>
+    <string name="bike_pass_price_limit">Preisbegrenzung</string>
+    <string name="bike_pass_number_of_permitted_wheels">Anzahl erlaubter Räder</string>
+    <string name="bike_pass_employer_subsidies">Arbeitgeberzuschüsse</string>
+    <string name="bike_pass_insurance">Versicherung: %1$d</string>
+    <string name="bike_pass_maintenance_package">Wartungspaket:  %1$d</string>
+    <string name="bike_pass_cap">Deckelung €: %1$d</string>
+    <string name="bike_pass_leasing_permitted_periods">Erlaubte Leasinglaufzeiten</string>
+    <string name="bike_pass_leasing_mandatory_accessories">Pflichtzubehör</string>
+    <string name="bike_pass_leasing_able_accessories">Leasingfähiges Zubehör</string>
+    <string name="bike_pass_leasing_able_accessories_body">Leasingfähiges Zubehör ist bei Ihrem Arbeitgeber erlaubt. Für weitere Vorgaben beachten Sie bitte die Merkblätter zum leasing-fähigem Zubehör. Merkblatt Leasingfähiges Zubehör</string>
+    <string name="bike_pass_leasing_prohibited_accessories">Nicht erlaubtes Zubehör</string>
+    <string name="bike_pass_leasing_order_via_online_retailer">Bestellung via Online-Händler</string>
+    <string name="bike_pass_lasing_accessories_no">Leasingfähiges Zubehör ist bei Ihrem Arbeitgeber nicht erlaubt.</string>
+    <string name="bike_pass_lasing_accessories_yes">Leasingfähiges Zubehör ist bei Ihrem Arbeitgeber erlaubt. Für weitere Vorgaben beachten Sie bitte die Merkblätter zum leasingfähigem Zubehör.<br><a href="/pdf/Merkblatt_Leasingfähiges-Zubehör_20240219_V0.4_ö.pdf">Merkblatt Leasingfähiges Zubehör</a></br></string>
+    <string name="bike_pass_lasing_accessories_else">Leasingfähiges Zubehör: nur Schloss<br><a href="/pdf/Merkblatt_Leasingfähiges-Zubehör_20240219_V0.4_ö.pdf">Merkblatt Leasingfähiges Zubehör</a></br></string>
+
+    <!-- bike pass: My Data-->
+    <string name="bike_pass_creation_date">Erstellungsdatum</string>
+    <string name="bike_pass_company_bike_users">Dienstradnutzer</string>
+    <string name="bike_pass_phone">Telefon</string>
+    <string name="bike_pass_email">E-Mail</string>
+    <string name="bike_pass_contact_person">Ansprechpartner</string>
+    <string name="bike_pass_customer_hotline">Kundenhotline</string>
+    <string name="bike_pass_faq">FAQ</string>
+    <string name="bike_pass_contact">Kontakt zu MDR</string>
+    <string name="bike_pass_reset_password">Passwort zurücksetzen</string>
+    <string name="bike_pass_support_email">customercare@baronmobil.com</string>
+    <string name="bike_pass_support_phone">0441 55 977 977</string>
+
+    <!-- bike pass: InfoBlock-->
+    <string name="bike_pass_info_title">Der mein-dienstrad.pass – einer für alles</string>
+    <string name="bike_pass_info_description_1">Vielen Dank für Ihre Registrierung bei mein-dienstrad.de.</string>
+    <string name="bike_pass_info_description_2">Alles, was jetzt kommt, steht im mein-dienstrad.pass.</string>
+    <string name="bike_pass_info_subtitle_1">Dienstrad beim Fachhändler aussuchen</string>
+    <string name="bike_pass_info_body_1">Angebot für das Wunschfahrrad beim Fachhändler erstellen lassen und ganz einfach vor Ort in den mein-dienstrad.pass einscannen.</string>
+    <string name="bike_pass_info_subtitle_2">Partnercode, Dienstraddaten oder Arbeitgebervorgaben</string>
+    <string name="bike_pass_info_body_2">Im mein-dienstrad.pass sind alle relevanten Daten zum Dienstrad-Leasing bereits hinterlegt.</string>
+    <string name="bike_pass_info_subtitle_3">Bike-Abholung mit dem Pass</string>
+    <string name="bike_pass_info_body_3">Nach Freigabe über das Online-Portal neues Dienstrad abholen. Einfach den mein-dienstrad.pass dem Fachhändler vorzeigen und einscannen lassen. Identifizierung erfolgt via QR-Code.</string>
+    <string name="bike_pass_info_subtitle_4">Dienstrad Inspektion</string>
+    <string name="bike_pass_info_body_4">Sobald die Inspektion fällig ist, gibt es eine Benachrichtigung. Den mein-dienstrad.pass vom Fachhändler einscannen lassen und Rad zum Service abgeben.</string>
+    <string name="bike_pass_info_subtitle_5">Schaden am Dienstrad</string>
+    <string name="bike_pass_info_body_5">Den Schaden über das Online-Portal melden. Rahmennummer ist im Pass hinterlegt. Bike in die Werkstatt bringen, mein-dienstrad.pass vorzeigen und reparieren lassen. Keine Zuzahlung notwendig.</string>
+    <string name="bike_pass_info_body_6" formatted="false">100% digital, 100% informativ – im mein-dienstrad.pass sind alle relevanten Daten hinterlegt Über das Smartphone immer dabei und jederzeit abrufbereit!</string>
+
+
+    <!-- store locator -->
+    <string name="dealer_map_scan" formatted="false">Fahrerpass scannen und nachschauen!\n100% digital, 100% informativ – der Fahrerpass von mein-dienstrad.de</string>
+    <string name="dealer_map_dialog_damaged">Schaden am Bike und Rahmennummer nicht im Kopf?</string>
+    <string name="dealer_map_dialog_fahrenpass">Fahrerpass vom Fachhändler einscannen lassen und Service mitnehmen!</string>
+    <string name="dealer_map_dialog_inspector">Das Portal sagt: Inspektion fällig?</string>
+    <string name="dealer_map_dialog_fahrpass_scan">Fahrerpass vom Fachhändler einscannen lassen und Bike abholen! Sicher ist sicher – Bike gegen Identifizierung über den Fahrerpass.</string>
+    <string name="dealer_map_dialog_no_problem">Kein Problem, steht im Fahrerpass!</string>
+    <string name="dealer_map_dialog_main_title">Der mein-dienstrad.pass – einer für alles</string>
+    <string name="dealer_map_dialog_main_description">Vielen Dank für Ihre Registrierung bei mein-dienstrad.de. Alles, was jetzt kommt, steht im Fahrerpass.</string>
+    <string name="dealer_map_dialog_specialist_dealers_title">Unsere Online-Fachhändler</string>
+    <string name="dealer_map_dialog_dialers_desc">Egal, wo in Deutschland Ihr Standort ist, es steht Ihnen ein flächendeckendes Netz von mehr als 4.500 Dienstrad Fachhändlern mit einem professionellen Service zur Verfügung. Lassen Sie sich bei Ihrem Wunsch-Fachhändler umfangreich und kompetent beraten.\nSollte Ihr Wunsch-Fachhändler noch kein Kooperationspartner von uns sein, kontaktieren Sie uns einfach unter partner@baronmobil.com und wir setzen uns umgehend mit dem Fachhändler in Verbindung.</string>
+    <string name="dealer_map_dialog_choose_bike">Bike aussuchen beim Fachhändler.</string>
+    <string name="dealer_map_dialog_choose_bike_desc">Fahrerpass vor Ort einscannen lassen und Angebot einholen!</string>
+    <string name="dealer_map_dialog_pick_up_auth">Sie haben die Freigabe zur Bike-Abholung erhalten?</string>
+    <string name="dealer_map_dialog_employer_req">Sie haben die Vorgaben Ihres Arbeitgebers nicht im Kopf?</string>
+    <string name="dealer_map_opnening">Öffnungszeiten</string>
+    <string name="dealer_map_email">Email</string>
+    <string name="dealer_map_website">Webseite</string>
+    <string name="dealer_map_find_a_bike">Fachhändlersuche</string>
+    <string name="dealer_map_address">Address</string>
+    <string name="dealer_map_more"><![CDATA[mehr ->]]></string>
+    <string name="dealer_map_error_title">Es wurden keine Fachhändler gefunden</string>
+    <string name="dealer_map_error_desc">Es sind keine Shops in deiner Umgebung</string>
+    <string name="dealer_map_location">Standort</string>
+    <string name="dealer_search_faq_button_title">Zum FAQ</string>
+    <string name="dealer_map_over_nine_thousand">über 9000 Bike Modelle</string>
+    <string name="dealer_map_mein_dienstrad_shop">mein-dienstrad.shop</string>
+
+    <!-- service cases -->
+    <string name="service_case_topbar_title">Serviceanfrage</string>
+    <string name="service_case_contact_support">Sonstige Support-Anfragen</string>
+    <string name="service_case_aktiv">Aktiv [%1$s]</string>
+    <string name="service_case_inaktiv">Inaktiv [%1$s]</string>
+    <string name="service_case_servicetype">Serviceart</string>
+    <string name="service_case_status">Status</string>
+    <string name="service_case_dates">Zeitraum</string>
+    <string name="service_case_email_sent_sub_title">Bitte warten Sie auf unsere E-Mail. Diese beinhaltet alle notwendigen Informationen.</string>
+    <string name="service_case_email_sent_title">Ihre Anfrage wurde akzeptiert!</string>
+    <string name="service_case_email_sent_banner_title">mein-dienstrad.shop</string>
+    <string name="service_case_email_sent_banner_subtitle">über 9000 Bike Modelle</string>
+    <string name="service_case_alles_klar">Alles klar!</string>
+    <string name="service_case_send_report">Über Schaden informieren</string>
+    <string name="service_case_bike_info">Fahrraddaten</string>
+    <string name="service_case_manufacturer">Hersteller</string>
+    <string name="service_case_model">Modell</string>
+    <string name="service_case_frame_number">Rahmennummer</string>
+    <string name="service_case_service_package">Servicepaket</string>
+    <string name="service_case_service_package_info">Hinweistext zum Servicepaket</string>
+    <string name="service_case_order_date">Auftragsdatum</string>
+    <string name="service_case_from">Gültig von</string>
+    <string name="service_case_to_date">Gültig bis</string>
+    <string name="service_case_service_type">Servicetyp</string>
+    <string name="service_case_service_tarif">Versicherungstarif</string>
+    <string name="service_case_insurance_info">Hinweistext zum Versicherungstarif</string>
+
+    <!-- shop tabs -->
+
+    <string name="shop_tab_e_bikes">E-Bikes</string>
+    <string name="shop_tab_bikes">Bikes</string>
+    <string name="shop_tab_recommendations">Empfehlungen</string>
+    <string name="shop_tab_actions">Sale%</string>
+
+    <!-- shop -->
+
+    <string name="shop_banner_sub_title">mein-dienstrad</string>
+    <string name="shop_banner_profile_title">Meine Daten</string>
+    <string name="shop_banner_purchase_title">Beim Fachhändler bestellen</string>
+
+    <!-- home -->
+
+    <string name="special_promotions">Sonderaktionen</string>
+    <string name="action_carousel">Aktionskarusel</string>
+    <string name="top_recommendations">Top-Empfehlungen</string>
+
+</resources>
